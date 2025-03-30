@@ -30,7 +30,7 @@ cargo test
 -Interface Interativa: O loop no main.rs permite que os usuários façam várias buscas até decidirem sair.
 -Mensagens de Feedback: O sistema informa ao usuário se nenhum produto foi encontrado para o termo de busca.
 
-#Considerações Finais
+# Considerações Finais
 -Desempenho: A busca é otimizada para retornar resultados rapidamente, mesmo com um número crescente de produtos.
 -Escalabilidade: O sistema é modular e pode ser facilmente expandido para incluir mais funcionalidades, como integração com bancos de dados ou uma interface gráfica.
 -Essa implementação fornece uma base robusta para o sistema de busca do MegaStore, permitindo que você adicione mais recursos conforme o necessário! 
